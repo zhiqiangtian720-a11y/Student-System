@@ -54,10 +54,10 @@ Run:
 - `student.py` – Student class
 - `subject.py` – Subject class
 - `database.py` – handles reading and writing student data
-- login_window.py – displays the GUI login window
-- enrolment_window.py – handles GUI subject enrolment
-- subject_window.py – displays enrolled subjects, marks and grades
-- university_controller.py – controls the main University menu
+- `login_window.py` – displays the GUI login window
+- `enrolment_window.py` – handles GUI subject enrolment
+- `subject_window.py` – displays enrolled subjects, marks and grades
+- `university_controller.py` – controls the main University menu
 
 ## Technology
 
